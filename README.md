@@ -2,7 +2,10 @@
 
 多邮箱账户统一管理系统，支持邮件收发同步、实时推送、分类管理、富文本编辑及标签系统，大幅提升邮件管理效率。
 
+
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/11208e6e-769c-439c-9513-01a15c77217a" />
+
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/5661d8a5-0057-4847-97ee-345b47913383" />
 
 
 ## ✨ 功能特性
@@ -150,6 +153,9 @@ mail-composer/
 ## 🔧 配置说明
 
 ### 邮箱配置
+
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/bd5bb330-f3f6-44a4-845f-0b54a8c5bff1" />
+
 
 添加邮箱账户时需要配置以下信息：
 
