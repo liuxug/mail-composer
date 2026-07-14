@@ -2,6 +2,9 @@
 
 多邮箱账户统一管理系统，支持邮件收发同步、实时推送、分类管理、富文本编辑及标签系统，大幅提升邮件管理效率。
 
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/11208e6e-769c-439c-9513-01a15c77217a" />
+
+
 ## ✨ 功能特性
 
 - **多邮箱账户管理**：支持 QQ 邮箱、163 邮箱、126 邮箱、Gmail 等主流邮箱
