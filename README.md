@@ -179,4 +179,5 @@ mail-composer/
 
 如有问题或建议，请通过以下方式联系：
 
-- GitHub Issues: [提交问题](https://github.com/liuxug/mail-composer/issues)
+- GitHub Issues：[提交问题](https://github.com/liuxug/mail-composer/issues)
+- Email：2470644228@qq.com
